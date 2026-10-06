@@ -2,15 +2,13 @@
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=commits)
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=hours)
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=contributions)
-[![ViewInGithub](https://img.shields.io/badge/GitHub-@bexino-white?logo=github&logoColor=auto&labelColor=555555&color=ffffff)](https://github.com/bexino)
+[![ViewInGithub](https://img.shields.io/badge/GitHub-@bexino-white?logo=github&logoColor=auto&labelColor=555555&color=ffffff)](https://github.com/bexino)  
+
+[![CategoriesOfMyRepos](https://img.shields.io/badge/Categories-of_my_repos-white?logo=github&logoColor=auto&labelColor=555555&color=D9027D)](https://github.com/bexino?tab=stars)
 
 # Hi there 👋, <br> I called myself `Benito Fu`.
 
 > A.K.A. `beixin`, `bexino`.
-
-[![CategoriesOfMyRepos](https://img.shields.io/badge/Categories-of_my_repos-white?logo=github&logoColor=auto&labelColor=555555&color=teal)](https://github.com/bexino?tab=stars)
-
----
 
 - 📖 Currently studying STEM;
 - 📚 Committed to academic improvement.
@@ -19,7 +17,9 @@
 
 ---
 
-> The pinned list is not maintained.
+> The pinned list is not maintained.  
+> [Please proceed to categories.](https://github.com/bexino?tab=stars)
+
 
 <!--
 **bexino/bexino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
