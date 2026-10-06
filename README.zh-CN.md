@@ -4,7 +4,7 @@
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=commits)
 [![EMail](https://img.shields.io/badge/电子邮件-bexino@outlook.es-white?logo=gmail&logoColor=FFFFFF&labelColor=555555&color=purple)](mailto:bexino+FromGithub@outlook.es)
 
-# 你好 👋，<br>我叫我 `北新`。
+# 你好 👋，<br>我叫我`北新`🤗。
 
 > 亦称: `Benito Fu`，`bexino`。
 
