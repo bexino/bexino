@@ -4,8 +4,6 @@
 [![EMail](https://img.shields.io/badge/电子邮件-bexino@outlook.de-white?logo=gmail&logoColor=FFFFFF&labelColor=555555&color=purple)](mailto:bexino+FromGithub@outlook.de)
 [![ViewInGithub](https://img.shields.io/badge/GitHub-@bexino-white?logo=github&logoColor=auto&labelColor=555555&color=ffffff)](https://github.com/bexino)
 
-[![CategoriesOfMyRepos](https://img.shields.io/badge/分类-我的项目-white?logo=github&logoColor=auto&labelColor=555555&color=D9027D)](https://github.com/bexino?tab=stars)
-
 # 你好 👋，<br>我叫我 `北新`。
 
 > 亦称: `Benito Fu`，`bexino`。
@@ -15,8 +13,7 @@
 - 🎵 Alternative / Hits;
 - 🎮 守望先锋。
 
-> 置顶列表未被维护；  
-> 请移步至：  
->
-> [![CategoriesOfMyRepos](https://img.shields.io/badge/分类-我的项目-white?logo=github&logoColor=auto&labelColor=555555&color=D9027D)](https://github.com/bexino?tab=stars)
+📌 置顶列表未经维护，请移步至： 
+
+[![CategoriesOfMyRepos](https://img.shields.io/badge/分类-我的项目-white?logo=github&logoColor=auto&labelColor=555555&color=D9027D)](https://github.com/bexino?tab=stars)
 
