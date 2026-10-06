@@ -5,7 +5,7 @@
 
 # 你好 👋 
 
-我以 Benito Fu 来称呼自己，A.K.A. 北新，bexino。
+我以 `Benito Fu` 来称呼自己，A.K.A. `北新`，`bexino`。
 
 > [!NOTE]
 > - [请查看我在Star列表中的分类，以了解我构建的项目。](https://github.com/bexino?tab=stars)
