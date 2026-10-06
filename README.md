@@ -27,6 +27,9 @@ A.K.A. Beixin, bexino.
 
 🌈 Better Together: We Code As One.
 
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=bexino&theme=ocean&hide_title=true&border_radius=10&size=compact&compact_count=3&hide=followers%2Cstars%2Cissues%2Cprs%2Cavg%2Cgrade%2Cstreak%2Cweek%2Ctrend%2Crepos%2Cactive_day)
+
 <!--
 **bexino/bexino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
