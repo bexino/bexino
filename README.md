@@ -22,7 +22,6 @@ I called myself `Benito Fu`, A.K.A. `beixin`, `bexino`.
 ---
 
 ✉️ [bexino@outlook.es](mailto:bexino@outlook.es)  
-🌈 Better Together: We Code As One.
 
 <!--
 **bexino/bexino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
