@@ -15,4 +15,4 @@
 
 📌 置顶列表未经维护，请移步至： 
 
-[![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=repos&label=项目分类&color=D9027D)](https://github.com/bexino?tab=stars)
+[![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=repos&label=本人项目分类&color=D9027D)](https://github.com/bexino?tab=stars)
