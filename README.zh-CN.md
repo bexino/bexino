@@ -21,4 +21,3 @@
 ---
 
 ✉️ [bexino@outlook.es](mailto:bexino@outlook.es)
-🌈 Better Together, We Code As One.
