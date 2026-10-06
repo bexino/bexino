@@ -5,7 +5,7 @@
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=commits)
 [![EMail](https://img.shields.io/badge/E--Mail-bexino@outlook.es-white?logo=gmail&logoColor=FFFFFF&labelColor=555555&color=purple)](mailto:bexino+FromGithub@outlook.es)
 
-# Hi there 👋,<br>I called myself`Benito Fu`🤗.
+# Hi there 👋,<br>I called myself `Benito Fu`🤗.
 
 > A.K.A. `beixin`, `bexino`.
 
