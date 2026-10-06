@@ -6,7 +6,7 @@
 
 ## Hi there 👋
 
-I called myself Benito Fu, A.K.A. Beixin, bexino.
+I called myself `Benito Fu`, A.K.A. `beixin`, `bexino`.
 
 > [!NOTE]
 > - [Please check my categories in the Star list to learn about the projects I have built.](https://github.com/bexino?tab=stars)  
