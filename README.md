@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I called myself Benito Fu,
+I called myself Benito Fu,  
 A.K.A. Beixin, bexino.
 
 > [!NOTE]
