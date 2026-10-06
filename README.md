@@ -18,7 +18,8 @@
 
 📌 The pinned list is not maintained, Please proceed to :  
 
-[![CategoriesOfMyRepos](https://img.shields.io/badge/Categories-of_my_repos-white?logo=github&logoColor=auto&labelColor=555555&color=D9027D)](https://github.com/bexino?tab=stars)
+
+[![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=repos&label=Repos+Categories&color=D9027D)](https://github.com/bexino?tab=stars)
 
 <!--
 **bexino/bexino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
