@@ -1,8 +1,8 @@
+[![ViewInGithub](https://img.shields.io/badge/GitHub-@bexino-white?logo=github&logoColor=auto&labelColor=555555&color=orange)](https://github.com/bexino)
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=hours)
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=contributions)
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=commits)
-[![EMail](https://img.shields.io/badge/电子邮件-bexino@outlook.de-white?logo=gmail&logoColor=FFFFFF&labelColor=555555&color=purple)](mailto:bexino+FromGithub@outlook.de)
-[![ViewInGithub](https://img.shields.io/badge/GitHub-@bexino-white?logo=github&logoColor=auto&labelColor=555555&color=ffffff)](https://github.com/bexino)
+[![EMail](https://img.shields.io/badge/电子邮件-bexino@outlook.es-white?logo=gmail&logoColor=FFFFFF&labelColor=555555&color=purple)](mailto:bexino+FromGithub@outlook.de)
 
 # 你好 👋，<br>我叫我 `北新`。
 
