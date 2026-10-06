@@ -1,3 +1,5 @@
+[![简体中文](https://img.shields.io/badge/简体中文-zh__cn-red)](https://github.com/bexino/bexino/blob/main/README.zh-CN.md)
+
 ## Hi there 👋
 
 I called myself Benito Fu,
