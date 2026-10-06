@@ -1,3 +1,8 @@
+![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=commits)
+![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=hours)
+![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=contributions)
+[![ViewInGithub](https://img.shields.io/badge/View_In-GitHub-white?logo=github&logoColor=auto&labelColor=555555&color=ffffff)](https://github.com/bexino)
+
 # 你好 👋 
 
 我以 Benito Fu 来称呼自己，  
