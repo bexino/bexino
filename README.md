@@ -21,7 +21,7 @@ I called myself `Benito Fu`, A.K.A. `beixin`, `bexino`.
 
 ---
 
-✉️ Contact me through the email on my profile.  
+✉️ [bexino@outlook.es](mailto:bexino@outlook.es)  
 🌈 Better Together: We Code As One.
 
 <!--
