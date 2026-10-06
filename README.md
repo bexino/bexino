@@ -9,7 +9,7 @@
 I called myself `Benito Fu`, A.K.A. `beixin`, `bexino`.
 
 > [!NOTE]
-> - [Please check my categories in the Star list to learn about the projects I have built.](https://github.com/bexino?tab=stars)  
+> - [Please check my categories in the STAR LIST to learn about the projects I have built.](https://github.com/bexino?tab=stars)  
 > - I do not maintain the Pin list on my homepage.
 
 ---
