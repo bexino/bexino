@@ -2,7 +2,7 @@
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=commits)
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=hours)
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=contributions)
-[![ViewInGithub](https://img.shields.io/badge/@bexino-GitHub-white?logo=github&logoColor=auto&labelColor=555555&color=ffffff)](https://github.com/bexino)
+[![ViewInGithub](https://img.shields.io/badge/GitHub-@bexino-white?logo=github&logoColor=auto&labelColor=555555&color=ffffff)](https://github.com/bexino)
 
 ## Hi there 👋 Called me `Benito Fu`.
 
