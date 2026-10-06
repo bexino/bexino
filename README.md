@@ -4,7 +4,7 @@
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=contributions)
 [![ViewInGithub](https://img.shields.io/badge/GitHub-@bexino-white?logo=github&logoColor=auto&labelColor=555555&color=ffffff)](https://github.com/bexino)
 
-## Hi there 👋, <br> I called myself `Benito Fu`.
+# Hi there 👋, <br> I called myself `Benito Fu`.
 
 > A.K.A. `beixin`, `bexino`.
 
