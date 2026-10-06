@@ -1,23 +1,22 @@
-![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=commits)
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=hours)
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=contributions)
-[![ViewInGithub](https://img.shields.io/badge/View_In-GitHub-white?logo=github&logoColor=auto&labelColor=555555&color=ffffff)](https://github.com/bexino)
+![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=commits)
+[![EMail](https://img.shields.io/badge/电子邮件-bexino@outlook.de-white?logo=gmail&logoColor=FFFFFF&labelColor=555555&color=purple)](mailto:bexino+FromGithub@outlook.de)
+[![ViewInGithub](https://img.shields.io/badge/GitHub-@bexino-white?logo=github&logoColor=auto&labelColor=555555&color=ffffff)](https://github.com/bexino)
 
-# 你好 👋 
+[![CategoriesOfMyRepos](https://img.shields.io/badge/分类-我的项目-white?logo=github&logoColor=auto&labelColor=555555&color=D9027D)](https://github.com/bexino?tab=stars)
 
-我以 `Benito Fu` 来称呼自己，A.K.A. `北新`，`bexino`。
+# 你好 👋，<br>我叫我 `北新`。
 
-> [!NOTE]
-> - [请查看我在Star列表中的分类，以了解我构建的项目。](https://github.com/bexino?tab=stars)
-> - 我不会维护主页的 Pin 列表。
-
----
+> 亦称: `Benito Fu`，`bexino`。
 
 - 📖 正就读于 STEM 方向；
 - 📚 致力于学业提升。
 - 🎵 Alternative / Hits;
 - 🎮 守望先锋。
 
----
+> 置顶列表未被维护；  
+> 请移步至：  
+>
+> [![CategoriesOfMyRepos](https://img.shields.io/badge/分类-我的项目-white?logo=github&logoColor=auto&labelColor=555555&color=D9027D)](https://github.com/bexino?tab=stars)
 
-✉️ [bexino@outlook.es](mailto:bexino@outlook.es)
