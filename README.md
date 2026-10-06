@@ -9,7 +9,7 @@ A.K.A. Beixin, bexino.
 
 ---
 
-- 📖 Currently studying Mechatronics Technology;
+- 📖 Currently studying STEM;
 - 📚 Committed to academic improvement.
 
 <br>
