@@ -6,7 +6,7 @@
 
 # 你好 👋，<br>我叫我`北新`🤗。
 
-> 亦称: `Benito Fu`，`bexino`。
+> 也叫做: `Bennett Fu`，`bexino`。
 
 - 📖 正就读于 STEM 方向；
 - 📚 致力于学业提升。
