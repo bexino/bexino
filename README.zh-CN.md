@@ -1,8 +1,4 @@
-<div align="center">
-
 # 你好 👋，<br>我叫我`北新`🤗。
-
-</div>
 
 > 也叫做: `Benito Fu`，`bexino`。
 
