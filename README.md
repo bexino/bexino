@@ -1,8 +1,4 @@
-<div align="center">
-
 # Hi there 👋,<br>I called myself `Benito Fu`🤗.
-
-</div>
 
 > A.K.A. `beixin`, `bexino`.
 
