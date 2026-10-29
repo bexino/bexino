@@ -1,11 +1,8 @@
-[![简体中文](https://img.shields.io/badge/简体中文-zh__cn-red)](https://github.com/bexino/bexino/blob/main/README.zh-CN.md)
-[![ViewInGithub](https://img.shields.io/badge/GitHub-@bexino-white?logo=github&logoColor=auto&labelColor=555555&color=orange)](https://github.com/bexino)
-![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=hours)
-![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=contributions)
-![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=commits)
-[![EMail](https://img.shields.io/badge/E--Mail-bexino@outlook.es-white?logo=gmail&logoColor=FFFFFF&labelColor=555555&color=purple)](mailto:bexino+FromGithub@outlook.es)
+<div align="center">
 
 # Hi there 👋,<br>I called myself `Benito Fu`🤗.
+
+</div>
 
 > A.K.A. `beixin`, `bexino`.
 
@@ -16,22 +13,17 @@
 
 ---
 
-📌 The pinned list is not maintained, Please proceed to :  
+<div align="center">
 
+<a href="https://github.com/bexino?tab=stars">
+  <img src="https://ghstats.dev/api/mini?username=bexino&metric=repos&color=58a6ff&style=minimal" width="101" />
+</a>
 
-[![GitHub Mini Badge](https://ghstats.dev/api/mini?username=bexino&metric=repos&label=Categories&color=D9027D)](https://github.com/bexino?tab=stars)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=bexino&theme=light&show_ring=false&hide_title=true&size=compact&compact_count=3&hide=stars%2Cprs%2Cissues%2Cstreak%2Cweek%2Ctrend%2Cgrade%2Cactive_day%2Cavg%2Cfollowers%2Crepos)
 
-<!--
-**bexino/bexino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Languages](https://ghstats.dev/api/langs?username=bexino&theme=light&max_langs=12&layout=horizontal_list)
 
-Here are some ideas to get you started:
+[![ViewInGithub](https://img.shields.io/badge/GitHub-@bexino-5985eb?logo=github&style=social&logoColor=5985EB)](https://github.com/bexino)
+[![EMail](https://img.shields.io/badge/E--Mail-bexino@outlook.es-5985eb?logo=gmail&style=social&logoColor=5985EB)](mailto:bexino+FromGithub@outlook.es)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
